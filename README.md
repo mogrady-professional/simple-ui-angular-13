@@ -13,6 +13,10 @@ Simple UI to demonstrate
 - angular material - @angular/material
 - event binding
 - property binding
+- Added Model & Interface
+- Services
+- Subscribing to an Observable - rxjs
+- OnInit, OnDestroy
 
 # Hosted on Netlify
 
