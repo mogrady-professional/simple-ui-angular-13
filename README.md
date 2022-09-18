@@ -14,6 +14,16 @@ Simple UI to demonstrate
 - event binding
 - property binding
 
+# Hosted on Netlify
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/24a9b65e-0c67-4afe-9b5d-3e508c7e26e3/deploy-status)](https://app.netlify.com/sites/stirring-tapioca-ce8072/deploys)
+
+<!-- rocket emoji -->
+
+🚀 [Live Demo](https://stirring-tapioca-ce8072.netlify.app/)
+
+<br>
+
 # Packages
 
 - Angular Meterial 13.3.9
