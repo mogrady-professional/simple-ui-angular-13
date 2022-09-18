@@ -1,4 +1,32 @@
-# SimpleUi
+# SimpleUI in Angular 13
+
+<p align="center"><img src="images/1.png"  height="auto" width="100%"></p>
+<p align="center"><img src="images/2.png"  height="auto" width="100%"></p>
+
+Simple UI to demonstrate
+
+- EventEmitter - @angular/core
+- Output - @angular/core
+- Input - @angular/core
+- Built-in structural directives (ngFor)
+- FormsModule - @angular/forms
+- angular material - @angular/material
+- event binding
+- property binding
+
+# Packages
+
+- Angular Meterial 13.3.9
+
+# Commands used to generate this project
+
+- `ng new simple-ui --no-strict --style=css`
+- `ng generate component header`
+- `ng generate component posts/post-create`
+- `ng generate component posts/post-list`
+- `ng add @angular/material`
+
+---
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
